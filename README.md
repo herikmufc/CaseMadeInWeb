@@ -158,7 +158,7 @@ As visualizações foram criadas em **duas páginas principais**, utilizando os 
 - Gráfico de barras comparando preço real vs previsto por `zipcode`
 
 📷 **Visualização:**
-![Dashboard Página 1](https://i.imgur.com/4j3pTif.png)
+![Dashboard Página 1](https://drive.google.com/file/d/1-klcOPjNka51jqnPcuagXSUyPneb0Bsb/view?usp=sharing)
 
 ---
 
