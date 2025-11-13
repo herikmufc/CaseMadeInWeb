@@ -1,0 +1,7 @@
+Eu executei o projeto no ambiente virtualizado. Seguem os commandos:
+
+cd "Diretório/Case - Made in web"
+python -m venv .venv
+.\.venv\Scripts\activate
+pip install -r requirements.txt
+python main.py
