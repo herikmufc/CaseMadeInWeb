@@ -158,7 +158,7 @@ As visualizações foram criadas em **duas páginas principais**, utilizando os 
 - Gráfico de barras comparando preço real vs previsto por `zipcode`
 
 📷 **Visualização:**
-![Dashboard Página 1]([https://imgur.com/gFMbi2M.png[)
+[![Painel de controle Página 1](https://i.imgur.com/gFMbi2M.png)](https://i.imgur.com/gFMbi2M.png)
 
 ---
 
@@ -175,7 +175,7 @@ As visualizações foram criadas em **duas páginas principais**, utilizando os 
   → Exibe tendências de valorização ao longo dos anos.
 
 📷 **Visualização:**
-![Dashboard Página 2]([https://imgur.com/VraSz4Y.png])
+[![Painel de controle Página 2](https://i.imgur.com/VraSz4Y.png)](https://i.imgur.com/VraSz4Y.png)
 
 > O layout segue a identidade visual MadeinWeb, com cabeçalho azul e paleta consistente.  
 > Todos os indicadores estão formatados em milhar (K) e percentual com duas casas decimais.
