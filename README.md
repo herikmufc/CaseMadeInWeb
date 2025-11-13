@@ -220,7 +220,7 @@ As visualizações foram criadas em **duas páginas principais**, utilizando os 
 **Herik Ramos**  
 📍 Niterói — RJ  
 MBA em Ciência de Dados | Especialista em BI e Modelagem Preditiva  
-📧 [herikramos.dev@gmail.com](mailto:herikramos@gmail.com)  
+📧 [herikramos.exe@gmail.com](mailto:herikramos@gmail.com)  
 🔗 [LinkedIn](https://www.linkedin.com/in/herikramos)
 
 ---
